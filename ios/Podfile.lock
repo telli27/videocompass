@@ -1,0 +1,46 @@
+PODS:
+  - file_selector_ios (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - light_compressor (0.0.1):
+    - Flutter
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - video_compress (0.3.0):
+    - Flutter
+
+DEPENDENCIES:
+  - file_selector_ios (from `.symlinks/plugins/file_selector_ios/ios`)
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - light_compressor (from `.symlinks/plugins/light_compressor/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - video_compress (from `.symlinks/plugins/video_compress/ios`)
+
+EXTERNAL SOURCES:
+  file_selector_ios:
+    :path: ".symlinks/plugins/file_selector_ios/ios"
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  light_compressor:
+    :path: ".symlinks/plugins/light_compressor/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  video_compress:
+    :path: ".symlinks/plugins/video_compress/ios"
+
+SPEC CHECKSUMS:
+  file_selector_ios: 6e9b6d7300556c730f224905726f0a2d5d874e51
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  image_picker_ios: b786a5dcf033a8336a657191401bfdf12017dabb
+  light_compressor: 789ed7df289f0cd43f1dae8a6eed5d932b214c59
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  video_compress: fce97e4fb1dfd88175aa07d2ffc8a2f297f87fbe
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
