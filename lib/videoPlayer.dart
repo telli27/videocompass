@@ -30,7 +30,7 @@ class _VideoAppState extends State<VideoApp> {
      if(count==0){
        GallerySaver.saveVideo(widget.url.path).then((value) {
           setState(() {
-            progressString = 'image saved!';
+            progressString = 'video saved!';
             downloading = true;
             count++;
           });
