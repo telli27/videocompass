@@ -40,9 +40,12 @@ dependencies:
   video_compress: ^3.1.1
   image_picker: ^0.8.6
   light_compressor: ^1.2.2
-
+  video_player: ^2.4.7
   path_provider: ^2.0.11
   filesize: ^2.0.1
+  dio: ^4.0.6
+  ftoast: ^2.0.0
+  gallery_saver: ^2.3.2
 
 dev_dependencies:
   flutter_test:
